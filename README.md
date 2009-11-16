@@ -15,14 +15,16 @@ Usage
 =====
 
 * Double-click Multi Firefox Launcher.
-* If Script Editor starts, click the "Run" button.
+* If Script Editor starts, click the "Run" button. Otherwise ignore this step.
 * Pick a version of Firefox to use.
 * Enjoy.
 
-Resources
+Resources & Useful links
 =====
 
-http://blog.codefront.net/2007/08/20/how-to-have-firefox-3-and-firefox-2-running-at-the-same-time/
+* [The article ](http://blog.codefront.net/2007/08/20/how-to-have-firefox-3-and-firefox-2-running-at-the-same-time/) that inspired me to write this script.
+* [A tutorial](http://drnicwilliams.com/2009/11/16/making-a-pretty-firefox-beta-application-icon/) explaining how to make your Firefox icons easier to tell apart.
+* [An alternative](http://davemartorana.com/multifirefox/) to this script, written in Objective-C.
 
 License
 =====
