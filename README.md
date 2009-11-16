@@ -1,10 +1,7 @@
 Multi Firefox Launcher
-Copyright 2009, Marcos Wright-Kuhns
-
-About
 =====
 
-Multi Firefox Launcher allows you to easily launch more than one version of Firefox at the same time on any Mac OS X computer.
+Multi Firefox Launcher makes it easy to launch more than one version of Firefox at the same time on any Mac OS X computer.
 
 Installation
 =====
@@ -24,4 +21,12 @@ Usage
 
 Resources
 =====
+
 http://blog.codefront.net/2007/08/20/how-to-have-firefox-3-and-firefox-2-running-at-the-same-time/
+
+License
+=====
+
+Copyright (c) 2009 Marcos Wright-Kuhns
+
+This code is free to use under the terms of the MIT license.
